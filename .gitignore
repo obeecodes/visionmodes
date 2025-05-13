@@ -1,0 +1,13 @@
+opencv/
+opencv_contrib/
+build/
+*.o
+*.obj
+*.exe
+*.out
+*.log
+.DS_Store
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
